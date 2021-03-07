@@ -169,6 +169,7 @@ npm run generate
 - **saleor-storefront/src/@next/components/organisms/PaymentGatewaysList/PaymentGatewaysList.tsx** - Import new gateway component, create a new switch case to handle your gateway component.
 
 ### Receiving confirmation emails
+### -
 
 - **Set [EMAIL_URL](https://docs.saleor.io/docs/developer/running-saleor/configuration#setting-environment-variables) environment variable for Saleor core.**
   - Using Docker - Add EMAIL_URL as new enviornment variable to both the api and worker service following the format [here](https://docs.saleor.io/docs/developer/running-saleor/configuration#email_url).
