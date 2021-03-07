@@ -1,0 +1,622 @@
+{
+  "@next_dot_components_dot_atoms_dot_AddNewTile_dot_AddNewTile_dot_2493765518": {
+    "string": "Adauga {type}"
+  },
+  "@next_dot_components_dot_atoms_dot_DemoBanner_dot_DemoBanner_dot_214739616": {
+    "string": "Play with <emphasis>GraphQL API</emphasis>"
+  },
+  "@next_dot_components_dot_atoms_dot_DemoBanner_dot_DemoBanner_dot_2367386033": {
+    "string": "API"
+  },
+  "@next_dot_components_dot_atoms_dot_DemoBanner_dot_DemoBanner_dot_2844777114": {
+    "string": "Explore <emphasis>Store’s dashboard</emphasis>"
+  },
+  "@next_dot_components_dot_atoms_dot_DemoBanner_dot_DemoBanner_dot_3662390044": {
+    "string": "Dashboard"
+  },
+  "@next_dot_components_dot_atoms_dot_DropdownSelect_dot_DropdownSelect_dot_3280510613": {
+    "string": "Filtru:"
+  },
+  "@next_dot_components_dot_molecules_dot_AccountMenuMobile_dot_AccountMenuMobile_dot_2132071990": {
+    "string": "Go to"
+  },
+  "@next_dot_components_dot_molecules_dot_AccountTabTiles_dot_AccountTile_dot_3253048083": {
+    "string": "Detalii personale"
+  },
+  "@next_dot_components_dot_molecules_dot_AccountTabTiles_dot_AccountTile_dot_3843483622": {
+    "string": "DATELE MELE"
+  },
+  "@next_dot_components_dot_molecules_dot_AccountTabTiles_dot_PasswordChangeForm_dot_1254879564": {
+    "string": "Parola noua"
+  },
+  "@next_dot_components_dot_molecules_dot_AccountTabTiles_dot_PasswordChangeForm_dot_2218114941": {
+    "string": "Parola veche"
+  },
+  "@next_dot_components_dot_molecules_dot_AccountTabTiles_dot_PasswordChangeForm_dot_2369435044": {
+    "string": "Camp necesar"
+  },
+  "@next_dot_components_dot_molecules_dot_AccountTabTiles_dot_PasswordChangeForm_dot_2799926859": {
+    "string": "Confirma parola"
+  },
+  "@next_dot_components_dot_molecules_dot_AccountTabTiles_dot_PasswordChangeForm_dot_4253911811": {
+    "string": "Parolele nu se potrivesc"
+  },
+  "@next_dot_components_dot_molecules_dot_AccountTabTiles_dot_PasswordTile_dot_3445609170": {
+    "string": "PAROLA MEA"
+  },
+  "@next_dot_components_dot_molecules_dot_AddToCartButton_dot_AddToCartButton_dot_81047562": {
+    "string": "Adauga in cos"
+  },
+  "@next_dot_components_dot_molecules_dot_AddressTile_dot_AddressTile_dot_1224809208": {
+    "string": "Adresa implicita"
+  },
+  "@next_dot_components_dot_molecules_dot_AddressTile_dot_AddressTile_dot_1578192486": {
+    "string": "Adresa de facturare implicita"
+  },
+  "@next_dot_components_dot_molecules_dot_AddressTile_dot_AddressTile_dot_2131178753": {
+    "string": "Setati ca adresa de livrare implicita"
+  },
+  "@next_dot_components_dot_molecules_dot_AddressTile_dot_AddressTile_dot_3096438859": {
+    "string": "Setati ca adresa de facturare implicita"
+  },
+  "@next_dot_components_dot_molecules_dot_AddressTile_dot_AddressTile_dot_4109348993": {
+    "string": "Adresa de livrare implicita"
+  },
+  "@next_dot_components_dot_molecules_dot_AttributeValuesChecklist_dot_AttributeValuesChecklist_dot_2029012727": {
+    "string": "VEZI TOATE OPTIUNILE"
+  },
+  "@next_dot_components_dot_molecules_dot_OrderTabel_dot_OrderTabel_dot_1148029984": {
+    "string": "Valoare"
+  },
+  "@next_dot_components_dot_molecules_dot_OrderTabel_dot_OrderTabel_dot_1633831221": {
+    "string": "Data comenzii"
+  },
+  "@next_dot_components_dot_molecules_dot_OrderTabel_dot_OrderTabel_dot_2387666633": {
+    "string": "Nr. comanda"
+  },
+  "@next_dot_components_dot_molecules_dot_OrderTabel_dot_OrderTabel_dot_724329054": {
+    "string": "Produse comandate"
+  },
+  "@next_dot_components_dot_molecules_dot_ProductDescription_dot_ProductDescription_dot_2623707255": {
+    "string": "DESCRIERE"
+  },
+  "@next_dot_components_dot_molecules_dot_ProductDescription_dot_ProductDescription_dot_308156425": {
+    "string": "ATRIBUTE"
+  },
+  "@next_dot_components_dot_molecules_dot_ProductListHeader_dot_ProductListHeader_dot_3317426832": {
+    "string": "PRODUSE:"
+  },
+  "@next_dot_components_dot_molecules_dot_ResetPasswordForm_dot_ResetPasswordForm_dot_1865992141": {
+    "string": "Va rugam sa furnizati o parola noua"
+  },
+  "@next_dot_components_dot_molecules_dot_ResetPasswordForm_dot_ResetPasswordForm_dot_2266763214": {
+    "string": "Rescrie parola"
+  },
+  "@next_dot_components_dot_molecules_dot_ResetPasswordForm_dot_ResetPasswordForm_dot_2746979176": {
+    "string": "Se pare ca token-ul pentru resetarea parolei nu mai este valid."
+  },
+  "@next_dot_components_dot_molecules_dot_ResetPasswordForm_dot_ResetPasswordForm_dot_3951836694": {
+    "string": "Salveaza"
+  },
+  "@next_dot_components_dot_molecules_dot_ResetPasswordForm_dot_ResetPasswordForm_dot_4028609483": {
+    "string": "Reseteaza parola"
+  },
+  "@next_dot_components_dot_organisms_dot_AddressForm_dot_AddressFormContent_dot_1139500589": {
+    "string": "tara"
+  },
+  "@next_dot_components_dot_organisms_dot_AddressForm_dot_AddressFormContent_dot_1363074570": {
+    "string": "Adresa"
+  },
+  "@next_dot_components_dot_organisms_dot_AddressForm_dot_AddressFormContent_dot_253031977": {
+    "string": "Oraș"
+  },
+  "@next_dot_components_dot_organisms_dot_AddressForm_dot_AddressFormContent_dot_2796540622": {
+    "string": "Cod postal"
+  },
+  "@next_dot_components_dot_organisms_dot_AddressForm_dot_AddressFormContent_dot_2950411968": {
+    "string": "Numele Companiei (Optional)"
+  },
+  "@next_dot_components_dot_organisms_dot_AddressForm_dot_AddressFormContent_dot_3121963259": {
+    "string": "Adresa 2"
+  },
+  "@next_dot_components_dot_organisms_dot_AddressForm_dot_AddressFormContent_dot_404705399": {
+    "string": "Judet"
+  },
+  "@next_dot_components_dot_organisms_dot_AddressGridSelector_dot_AddressGridSelector_dot_2132027491": {
+    "string": "adresa"
+  },
+  "@next_dot_components_dot_organisms_dot_AdyenPaymentGateway_dot_AdyenPaymentGateway_dot_adyenConfirmationErrorMessages_dot_cancelled": {
+    "context": "Adyen payment gateway error",
+    "string": "Payment was cancelled."
+  },
+  "@next_dot_components_dot_organisms_dot_AdyenPaymentGateway_dot_AdyenPaymentGateway_dot_adyenConfirmationErrorMessages_dot_error": {
+    "context": "Adyen payment gateway error",
+    "string": "Error processing payment occured."
+  },
+  "@next_dot_components_dot_organisms_dot_AdyenPaymentGateway_dot_AdyenPaymentGateway_dot_adyenConfirmationErrorMessages_dot_general": {
+    "context": "Adyen payment gateway error",
+    "string": "Payment confirmation went wrong."
+  },
+  "@next_dot_components_dot_organisms_dot_AdyenPaymentGateway_dot_AdyenPaymentGateway_dot_adyenConfirmationErrorMessages_dot_refused": {
+    "context": "Adyen payment gateway error",
+    "string": "The payment was refused. Try the payment again using a different payment method or card."
+  },
+  "@next_dot_components_dot_organisms_dot_AdyenPaymentGateway_dot_AdyenPaymentGateway_dot_adyenErrorMessages_dot_cannotHandlePaymentConfirmation": {
+    "context": "Adyen payment gateway error",
+    "string": "Payment gateway did not provide payment confirmation handler."
+  },
+  "@next_dot_components_dot_organisms_dot_AdyenPaymentGateway_dot_AdyenPaymentGateway_dot_adyenErrorMessages_dot_invalidPaymentSubmission": {
+    "context": "Adyen payment gateway error",
+    "string": "Invalid payment submission."
+  },
+  "@next_dot_components_dot_organisms_dot_AdyenPaymentGateway_dot_AdyenPaymentGateway_dot_adyenErrorMessages_dot_paymentMalformedConfirmationData": {
+    "context": "Adyen payment gateway error",
+    "string": "Payment needs confirmation but data required for confirmation received from the server is malformed."
+  },
+  "@next_dot_components_dot_organisms_dot_AdyenPaymentGateway_dot_AdyenPaymentGateway_dot_adyenErrorMessages_dot_paymentNoConfirmationData": {
+    "context": "Adyen payment gateway error",
+    "string": "Payment needs confirmation but data required for confirmation not received from the server."
+  },
+  "@next_dot_components_dot_organisms_dot_AdyenPaymentGateway_dot_AdyenPaymentGateway_dot_adyenErrorMessages_dot_unknownPayment": {
+    "context": "Adyen payment gateway error",
+    "string": "Unknown payment submission error occured."
+  },
+  "@next_dot_components_dot_organisms_dot_CartSummary_dot_CartSummary_dot_2088494495": {
+    "string": "Comanda"
+  },
+  "@next_dot_components_dot_organisms_dot_CheckoutAddress_dot_CheckoutAddress_dot_3912924864": {
+    "string": "La fel ca adresa de livrare"
+  },
+  "@next_dot_components_dot_organisms_dot_CheckoutPayment_dot_CheckoutPayment_dot_3382401165": {
+    "string": "Voucher sau un cod de reducere?"
+  },
+  "@next_dot_components_dot_organisms_dot_CheckoutReview_dot_CheckoutReview_dot_348821000": {
+    "string": "Metoda de plata"
+  },
+  "@next_dot_components_dot_organisms_dot_CheckoutReview_dot_CheckoutReview_dot_3577164776": {
+    "string": "Livrare"
+  },
+  "@next_dot_components_dot_organisms_dot_CheckoutReview_dot_CheckoutReview_dot_4282475982": {
+    "string": "Adresa de facturare"
+  },
+  "@next_dot_components_dot_organisms_dot_DiscountForm_dot_DiscountForm_dot_3476123": {
+    "string": "Aplica"
+  },
+  "@next_dot_components_dot_organisms_dot_ProductList_dot_ProductList_dot_2783099424": {
+    "string": "Mai mult..."
+  },
+  "@next_dot_components_dot_organisms_dot_ProductVariantPicker_dot_ProductVariantAttributeSelect_dot_1125254976": {
+    "string": "Selecteaza {selectLabel}"
+  },
+  "@next_dot_components_dot_organisms_dot_ThankYou_dot_ThankYou_dot_1995277831": {
+    "string": "Multumim"
+  },
+  "@next_dot_components_dot_organisms_dot_ThankYou_dot_ThankYou_dot_2116351823": {
+    "string": "pentru comanda!"
+  },
+  "@next_dot_components_dot_organisms_dot_ThankYou_dot_ThankYou_dot_2999163789": {
+    "string": "Numarul dvs. de comanda este"
+  },
+  "@next_dot_components_dot_organisms_dot_ThankYou_dot_ThankYou_dot_3364990704": {
+    "string": "V-am trimis prin email o confirmare a comenzii și va vom anunta cand comanda a fost expediata."
+  },
+  "@next_dot_components_dot_organisms_dot_ThankYou_dot_ThankYou_dot_3752098833": {
+    "string": "COMANDA"
+  },
+  "@next_dot_components_dot_templates_dot_CartEmpty_dot_CartEmpty_dot_2488840083": {
+    "string": "Nu este nimic in cos"
+  },
+  "@next_dot_components_dot_templates_dot_CartEmpty_dot_CartEmpty_dot_2896212356": {
+    "string": "Cosul este gol! Sigur avem ceva pe placul tau."
+  },
+  "@next_dot_components_dot_templates_dot_CartEmpty_dot_CartEmpty_dot_3578601618": {
+    "string": "Cos"
+  },
+  "@next_dot_pages_dot_CartPage_dot_CartPage_dot_1304869656": {
+    "string": "PLASEAZA COMANDA"
+  },
+  "@next_dot_pages_dot_CartPage_dot_CartPage_dot_3173718889": {
+    "string": "Comanda"
+  },
+  "@next_dot_pages_dot_CheckoutPage_dot_subpages_dot_CheckoutAddressSubpage_dot_2558335134": {
+    "string": "Nu ai selectat o adresa"
+  },
+  "@next_dot_pages_dot_CheckoutPage_dot_subpages_dot_CheckoutAddressSubpage_dot_929802659": {
+    "string": "Va rugam sa furnizati adresa de livrare."
+  },
+  "@next_dot_pages_dot_OrdersHistory_dot_OrdersHistory_dot_1138265409": {
+    "string": "Incarca mai mult"
+  },
+  "account_dot_AddressBook_dot_AddressBook_dot_2776756156": {
+    "string": "Editeaza adresa"
+  },
+  "app_dot_Notifications_dot_1053546789": {
+    "string": "Pentru a actualiza aplicatia la cea mai recenta versiune, actualizati pagina!"
+  },
+  "app_dot_Notifications_dot_1308518649": {
+    "string": "Refresh"
+  },
+  "app_dot_Notifications_dot_1917823234": {
+    "string": "Sunteti autentificat"
+  },
+  "app_dot_Notifications_dot_2378877294": {
+    "string": "Acum ești deconectat"
+  },
+  "app_dot_Notifications_dot_795565": {
+    "string": "Este disponibila o noua versiune!"
+  },
+  "components_dot_Breadcrumbs_dot_index_dot_1347475195": {
+    "string": "Înapoi"
+  },
+  "components_dot_CartTable_dot_Table_dot_1603950169": {
+    "string": "Cost livrare"
+  },
+  "components_dot_CartTable_dot_Table_dot_2179891060": {
+    "string": "Total"
+  },
+  "components_dot_CartTable_dot_Table_dot_2875988277": {
+    "string": "Discount: {discountName}"
+  },
+  "components_dot_CheckoutLogin_dot_CheckoutAsGuest_dot_1006283488": {
+    "string": "Continua fara cont"
+  },
+  "components_dot_CheckoutLogin_dot_CheckoutAsGuest_dot_2132450234": {
+    "string": "Inregistreaza-te"
+  },
+  "components_dot_CheckoutLogin_dot_CheckoutAsGuest_dot_3896074202": {
+    "string": "sau"
+  },
+  "components_dot_CheckoutLogin_dot_CheckoutAsGuest_dot_647198093": {
+    "string": "Daca nu doresti sa te inregistrezi un cont, nu iti face griji. Poti plati ca oaspete. Ne pasa de tine la fel de mult ca orice utilizator înregistrat."
+  },
+  "components_dot_CheckoutLogin_dot_SignInForm_dot_2856837597": {
+    "string": "Am cont"
+  },
+  "components_dot_LoginForm_dot_index_dot_1405865627": {
+    "string": "Login"
+  },
+  "components_dot_MainMenu_dot_MainMenu_dot_4144939532": {
+    "string": "Offline"
+  },
+  "components_dot_NotFound_dot_index_dot_1723676032": {
+    "string": "Înapoi acasa"
+  },
+  "components_dot_NotFound_dot_index_dot_1782529840": {
+    "string": "Este posibil sa fi scris greșit adresa sau sa se fi mutat pagina."
+  },
+  "components_dot_NotFound_dot_index_dot_3141549744": {
+    "string": "Ne pare rau pentru eroare și speram ca veti avea o zi buna."
+  },
+  "components_dot_NotFound_dot_index_dot_3478767873": {
+    "string": "404"
+  },
+  "components_dot_NotFound_dot_index_dot_680965574": {
+    "string": "Se pare ca nu gasim pagina pe care o cautati!"
+  },
+  "components_dot_OverlayManager_dot_Cart_dot_Cart_dot_1316031908": {
+    "string": "Comanda,"
+  },
+  "components_dot_OverlayManager_dot_Cart_dot_Cart_dot_1397761112": {
+    "context": "produse in cos",
+    "string": "{itemsQuantity,plural,one {{itemsQuantity} produs} other {{itemsQuantity} produse}}"
+  },
+  "components_dot_OverlayManager_dot_Cart_dot_Cart_dot_2426849470": {
+    "string": "Vezi comanda"
+  },
+  "components_dot_OverlayManager_dot_Cart_dot_Empty_dot_3515754810": {
+    "string": "Inapoi"
+  },
+  "components_dot_OverlayManager_dot_Cart_dot_Empty_dot_4121934554": {
+    "string": "Cosul este gol! Sigur avem ceva pe placul tau."
+  },
+  "components_dot_OverlayManager_dot_Cart_dot_Empty_dot_966560142": {
+    "string": "Cosul este gol"
+  },
+  "components_dot_OverlayManager_dot_Cart_dot_ProductList_dot_3897981513": {
+    "string": "Cantitate: {quantity}"
+  },
+  "components_dot_OverlayManager_dot_Login_dot_ForgottenPassword_dot_1214263298": {
+    "string": "Ai uitat parola?"
+  },
+  "components_dot_OverlayManager_dot_Login_dot_ForgottenPassword_dot_1781368875": {
+    "string": "Click aici"
+  },
+  "components_dot_OverlayManager_dot_Login_dot_RegisterForm_dot_2556234295": {
+    "string": "Sign up"
+  },
+  "components_dot_OverlayManager_dot_Login_dot_RegisterForm_dot_2622394113": {
+    "string": "Verifica emailul pentru instructiuni de activare a contului"
+  },
+  "components_dot_OverlayManager_dot_Login_dot_RegisterForm_dot_590842025": {
+    "string": "A fost creat un utilizator nou"
+  },
+  "components_dot_OverlayManager_dot_Login_dot_index_dot_282922692": {
+    "string": "Cont client"
+  },
+  "components_dot_OverlayManager_dot_Login_dot_index_dot_3254057623": {
+    "string": "Sign up"
+  },
+  "components_dot_OverlayManager_dot_Login_dot_index_dot_3293735236": {
+    "string": "Login"
+  },
+  "components_dot_OverlayManager_dot_Password_dot_index_dot_4028609483": {
+    "string": "Reseteaza parola"
+  },
+  "components_dot_OverlayManager_dot_Search_dot_NothingFound_dot_1777769494": {
+    "string": "Nu renuntati - verificati ortografia, gandeste-te la ceva mai putin specific și apoi foloseste bara de cautare de mai sus."
+  },
+  "components_dot_OverlayManager_dot_Search_dot_NothingFound_dot_3166222023": {
+    "string": "Ne pare rau, dar nu am putut gasi niciun rezultat de cautare pentru: {search}"
+  },
+  "components_dot_OverlayManager_dot_Search_dot_Search_dot_4112727608": {
+    "string": "Toate rezultatele"
+  },
+  "components_dot_PasswordResetRequestForm_dot_index_dot_1587628595": {
+    "string": "Verifica email pentru confirmare"
+  },
+  "components_dot_PasswordResetRequestForm_dot_index_dot_2925394684": {
+    "string": "Reseteaza parola"
+  },
+  "components_dot_PasswordResetRequestForm_dot_index_dot_805890313": {
+    "string": "Te rugam sa ne furnizezi adresa de email, astfel încat sa va putem trimite un link pentru a reseta parola"
+  },
+  "components_dot_Select_dot_SelectOptionsList_dot_1394135378": {
+    "string": "Lipsa optiuni"
+  },
+  "intl_dot_checkoutMessages_dot_addNewAddress": {
+    "string": "Adauga adresa"
+  },
+  "intl_dot_checkoutMessages_dot_addressNextActionName": {
+    "string": "Continua"
+  },
+  "intl_dot_checkoutMessages_dot_billingAddress": {
+    "string": "ADRESA"
+  },
+  "intl_dot_checkoutMessages_dot_continueShopping": {
+    "string": "Comanda noua"
+  },
+  "intl_dot_checkoutMessages_dot_paymentMethod": {
+    "string": "METODA DE PLATA"
+  },
+  "intl_dot_checkoutMessages_dot_paymentNextActionName": {
+    "string": "Continua la review"
+  },
+  "intl_dot_checkoutMessages_dot_reviewNextActionName": {
+    "string": "Pleaseaza comanda"
+  },
+  "intl_dot_checkoutMessages_dot_reviewOrder": {
+    "string": "Comanda"
+  },
+  "intl_dot_checkoutMessages_dot_shippingAddress": {
+    "string": "Adresa"
+  },
+  "intl_dot_checkoutMessages_dot_shippingMethod": {
+    "string": "Livrare"
+  },
+  "intl_dot_checkoutMessages_dot_shippingNextActionName": {
+    "string": "Continue to Payment"
+  },
+  "intl_dot_checkoutMessages_dot_stepNameAddress": {
+    "string": "Adresa"
+  },
+  "intl_dot_checkoutMessages_dot_stepNamePayment": {
+    "string": "Metoda de plata"
+  },
+  "intl_dot_checkoutMessages_dot_stepNameReview": {
+    "string": "Review"
+  },
+  "intl_dot_checkoutMessages_dot_stepNameShipping": {
+    "string": "Livrare"
+  },
+  "intl_dot_commonMessages_dot_account": {
+    "string": "Cont"
+  },
+  "intl_dot_commonMessages_dot_add": {
+    "string": "Adauga"
+  },
+  "intl_dot_commonMessages_dot_addressBook": {
+    "string": "Adrese"
+  },
+  "intl_dot_commonMessages_dot_cancel": {
+    "string": "Anulare"
+  },
+  "intl_dot_commonMessages_dot_checkout": {
+    "string": "Plateste"
+  },
+  "intl_dot_commonMessages_dot_choosePaymentMethod": {
+    "string": "Alege metoda de plata."
+  },
+  "intl_dot_commonMessages_dot_clearFilterHeader": {
+    "string": "Sterge filtre"
+  },
+  "intl_dot_commonMessages_dot_eMail": {
+    "string": "Email"
+  },
+  "intl_dot_commonMessages_dot_filterHeader": {
+    "string": "Filtre"
+  },
+  "intl_dot_commonMessages_dot_firstName": {
+    "string": "Nume"
+  },
+  "intl_dot_commonMessages_dot_home": {
+    "string": "Home"
+  },
+  "intl_dot_commonMessages_dot_lastName": {
+    "string": "Prenume"
+  },
+  "intl_dot_commonMessages_dot_loading": {
+    "string": "Loading"
+  },
+  "intl_dot_commonMessages_dot_logOut": {
+    "string": "Log Out"
+  },
+  "intl_dot_commonMessages_dot_lowStock": {
+    "string": "Stoc mic"
+  },
+  "intl_dot_commonMessages_dot_maxQtyIs": {
+    "string": "Cantitate maxima: {maxQuantity}"
+  },
+  "intl_dot_commonMessages_dot_myAccount": {
+    "string": "Contul meu"
+  },
+  "intl_dot_commonMessages_dot_noItemsAvailable": {
+    "string": "Lipsa produse"
+  },
+  "intl_dot_commonMessages_dot_noPurchaseAvailable": {
+    "string": "Indisponibil"
+  },
+  "intl_dot_commonMessages_dot_orderHistory": {
+    "string": "Istoric comenzi"
+  },
+  "intl_dot_commonMessages_dot_outOfStock": {
+    "string": "Lipsa stoc"
+  },
+  "intl_dot_commonMessages_dot_password": {
+    "string": "Parola"
+  },
+  "intl_dot_commonMessages_dot_phone": {
+    "string": "Telefon"
+  },
+  "intl_dot_commonMessages_dot_phoneNumber": {
+    "string": "Telefon: {phone}"
+  },
+  "intl_dot_commonMessages_dot_price": {
+    "string": "Pret"
+  },
+  "intl_dot_commonMessages_dot_products": {
+    "string": "Produse"
+  },
+  "intl_dot_commonMessages_dot_promoCode": {
+    "string": "Cod promotional"
+  },
+  "intl_dot_commonMessages_dot_provideEmailAddress": {
+    "string": "Lipsa adresa email"
+  },
+  "intl_dot_commonMessages_dot_purchaseAvailableOn": {
+    "string": "Disponibil de la data {date} pana la {time}"
+  },
+  "intl_dot_commonMessages_dot_qty": {
+    "string": "Cantitate"
+  },
+  "intl_dot_commonMessages_dot_quantity": {
+    "string": "Cantitate"
+  },
+  "intl_dot_commonMessages_dot_save": {
+    "string": "Salveaza"
+  },
+  "intl_dot_commonMessages_dot_search": {
+    "string": "cauta"
+  },
+  "intl_dot_commonMessages_dot_shipping": {
+    "string": "Livrare"
+  },
+  "intl_dot_commonMessages_dot_shortEmail": {
+    "string": "Email"
+  },
+  "intl_dot_commonMessages_dot_showEmail": {
+    "string": "Email: {email}"
+  },
+  "intl_dot_commonMessages_dot_sku": {
+    "string": "SKU"
+  },
+  "intl_dot_commonMessages_dot_status": {
+    "string": "Stare"
+  },
+  "intl_dot_commonMessages_dot_subtotal": {
+    "string": "Subtotal"
+  },
+  "intl_dot_commonMessages_dot_total": {
+    "string": "Total"
+  },
+  "intl_dot_commonMessages_dot_totalPrice": {
+    "string": "Pret total"
+  },
+  "intl_dot_commonMessages_dot_variant": {
+    "string": "Varianta"
+  },
+  "intl_dot_commonMessages_dot_youMightLike": {
+    "string": "Produse relevante"
+  },
+  "intl_dot_orderStatusMessages_dot_canceled": {
+    "string": "Anulata"
+  },
+  "intl_dot_orderStatusMessages_dot_draft": {
+    "string": "Proiect"
+  },
+  "intl_dot_orderStatusMessages_dot_fulfilled": {
+    "string": "Livrata"
+  },
+  "intl_dot_orderStatusMessages_dot_partiallyFulfilled": {
+    "string": "Partial livrata"
+  },
+  "intl_dot_orderStatusMessages_dot_unfulfilled": {
+    "string": "Nelivrata"
+  },
+  "intl_dot_paymentStatusMessages_dot_fullyCharged": {
+    "string": "Platit"
+  },
+  "intl_dot_paymentStatusMessages_dot_fullyRefunded": {
+    "string": "Rambursata"
+  },
+  "intl_dot_paymentStatusMessages_dot_notCharged": {
+    "string": "Not charged"
+  },
+  "intl_dot_paymentStatusMessages_dot_partiallyCharged": {
+    "string": "Partially charged"
+  },
+  "intl_dot_paymentStatusMessages_dot_partiallyRefunded": {
+    "string": "Partially refunded"
+  },
+  "intl_dot_prodListHeaderCommonMsg_dot_sortOptionsClear": {
+    "string": "Sterge..."
+  },
+  "intl_dot_prodListHeaderCommonMsg_dot_sortOptionsName": {
+    "string": "Nume: Asc."
+  },
+  "intl_dot_prodListHeaderCommonMsg_dot_sortOptionsNameDsc": {
+    "string": "Nume: Des."
+  },
+  "intl_dot_prodListHeaderCommonMsg_dot_sortOptionsPrice": {
+    "string": "Pret: Mic-Mare"
+  },
+  "intl_dot_prodListHeaderCommonMsg_dot_sortOptionsPriceDsc": {
+    "string": "Pret: Mare-Mic"
+  },
+  "intl_dot_prodListHeaderCommonMsg_dot_sortOptionsUpdatedAt": {
+    "string": "Actualizare: Asc."
+  },
+  "intl_dot_prodListHeaderCommonMsg_dot_sortOptionsUpdatedAtDsc": {
+    "string": "Actualizare: Des."
+  },
+  "userAccount_dot_views_dot_OrderDetails_dot_Page_dot_1857586798": {
+    "string": "Comanda cu numarul: {orderNum}"
+  },
+  "userAccount_dot_views_dot_OrderDetails_dot_Page_dot_2670827143": {
+    "context": "action in popup menu in order view",
+    "string": "Descarca factura"
+  },
+  "userAccount_dot_views_dot_OrderDetails_dot_Page_dot_624688748": {
+    "string": "Inapoi la Istoric comenzi"
+  },
+  "views_dot_Home_dot_Page_dot_2366307429": {
+    "string": "Reducere finala"
+  },
+  "views_dot_Home_dot_Page_dot_2812648978": {
+    "string": "Promotie"
+  },
+  "views_dot_Home_dot_Page_dot_3347022999": {
+    "string": "Shop sale"
+  },
+  "views_dot_Home_dot_Page_dot_3813745889": {
+    "string": "Selectie categorii"
+  },
+  "views_dot_Home_dot_Page_dot_4153800196": {
+    "string": "Up to 70% off sale"
+  },
+  "views_dot_Product_dot_Other_dot_3212906417": {
+    "string": "Comanda impreuna cu:"
+  },
+  "views_dot_Search_dot_Page_dot_2865432515": {
+    "string": "Ai cautat:"
+  }
+}

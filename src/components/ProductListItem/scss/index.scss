@@ -1,0 +1,58 @@
+@import "../../../globalStyles/scss/variables.scss";
+
+.product-list-item {
+  text-align: center;
+
+  &__title {
+    text-transform: $product-item-title-text-transform;
+    font-weight: 400;
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  &__undiscounted_price {
+    text-decoration: line-through;
+    color: $gray;
+    font-size: $small-font-size;
+    font-weight: regular;
+  }
+
+  &__category {
+    color: $product-item-category-color;
+    text-align: center;
+  }
+
+  &__price {
+    font-weight: 300;
+    margin-top: 5px;
+    text-align: center;
+  }
+
+  &__info {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__image {
+    // background-color: $turquoise-light;
+    display: flex;
+    height: 350px;
+    justify-content: center;
+    overflow: hidden;
+
+    img {
+      border-radius: 4px;
+      object-fit: contain;
+      max-width: 100%;
+      transition: all 0.3s ease-in-out;
+
+      &:hover {
+        transform: scale(1.1);
+      }
+    }
+
+    @media (max-width: $small-screen) {
+      height: 210px;
+    }
+  }
+}
