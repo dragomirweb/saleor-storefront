@@ -6,10 +6,15 @@ import { Radio } from "@components/atoms";
 import * as S from "./styles";
 import { IProps } from "./types";
 
+// export const statuses = [
+//   { token: "charged", label: "Charged" },
+//   { token: "fully-refunded", label: "Fully refunded" },
+//   { token: "not-charged", label: "Not charged" },
+// ];
+
 export const statuses = [
-  { token: "charged", label: "Charged" },
-  { token: "fully-refunded", label: "Fully refunded" },
-  { token: "not-charged", label: "Not charged" },
+  { token: "cash", label: "Numerar la livrator" },
+  { token: "pos", label: "Cu cardul la livrator" },
 ];
 
 /**
@@ -25,7 +30,8 @@ const DummyPaymentGateway: React.FC<IProps> = ({
     <Formik
       initialValues={{ status: initialStatus || statuses[0].token }}
       onSubmit={(values, { setSubmitting }) => {
-        processPayment(values.status);
+        // processPayment(values.status);
+        processPayment("not-charged");
         setSubmitting(false);
       }}
     >

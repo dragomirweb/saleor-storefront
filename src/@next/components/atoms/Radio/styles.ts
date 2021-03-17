@@ -3,7 +3,7 @@ import { css } from "styled-components";
 import { styled } from "@styles";
 
 const inputStyle = css<{ checked: boolean }>`
-  ${props => props.checked && `color: #21125E;`}
+  ${props => props.checked && `color: #333;`}
 
   display: flex;
   align-items: center;
@@ -15,12 +15,14 @@ const inputStyle = css<{ checked: boolean }>`
     width: 0;
   }
   > div {
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
     width: 1em;
     height: 1em;
     margin: 0.25em 1em 0.25em 0.25em;
-    border: 0.1em solid #21125e;
-    border-radius: 0.5em;
+    border: 0.1em solid #333;
+    border-radius: 50%;
     background: #ffffff;
     vertical-align: bottom;
   }
@@ -28,11 +30,10 @@ const inputStyle = css<{ checked: boolean }>`
     props.checked &&
     `> div > span {
       display: block;
-      width: 0.5em;
-      height: 0.5em;
-      margin: 0.125em;
-      border-radius: 0.25em;
-      background: #21125e;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: #333;
     }`}
 `;
 

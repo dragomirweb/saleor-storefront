@@ -44,7 +44,7 @@ export const PasswordTile: React.FC = () => {
                     setIsEditing(false);
                   }}
                   error={error ? error!.extraInfo!.userInputErrors : []}
-                />
+                />xxx
               </S.ContentEdit>
             ) : (
               <Attribute

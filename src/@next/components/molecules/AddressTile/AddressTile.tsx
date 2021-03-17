@@ -26,7 +26,7 @@ export const AddressTile: React.FC<IProps> = ({
   const intl = useIntl();
   const header = (
     <S.HeaderContent>
-      <DropdownMenu
+      {/* <DropdownMenu
         type="clickable"
         header={
           <IconButton testingContext="expandButton" name="expand" size={24} />
@@ -47,7 +47,7 @@ export const AddressTile: React.FC<IProps> = ({
             testingContext: "set-shipping",
           },
         ]}
-      />
+      /> */}
 
       {address.isDefaultBillingAddress && address.isDefaultShippingAddress
         ? intl.formatMessage({ defaultMessage: "Default Address" })

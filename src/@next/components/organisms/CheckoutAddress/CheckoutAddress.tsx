@@ -116,7 +116,7 @@ const CheckoutAddress: React.FC<IProps> = ({
               />
             ) : (
               <AddressForm
-                testingContext="billingAddressForm"
+                testingContext="billingAddressFormS"
                 formId={billingFormId}
                 formRef={billingFormRef}
                 countriesOptions={countries?.filter(filterNotEmptyArrayItems)}

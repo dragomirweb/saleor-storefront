@@ -61,11 +61,12 @@ const CheckoutReviewSubpageWithRef: RefForwardingComponent<
 
   const getPaymentMethodDescription = () => {
     if (payment?.gateway === "mirumee.payments.dummy") {
-      return `Dummy: ${
-        dummyStatuses.find(
-          status => status.token === selectedPaymentGatewayToken
-        )?.label
-      }`;
+      // return `La livrator: ${
+      //   dummyStatuses.find(
+      //     status => status.token === selectedPaymentGatewayToken
+      //   )?.label
+      // }`;
+      return `La livrator`;
     }
     if (payment?.gateway === "mirumee.payments.adyen") {
       return `Adyen payments`;

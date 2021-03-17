@@ -346,19 +346,21 @@ const CheckoutPage: React.FC<IProps> = ({}: IProps) => {
   };
 
   const paymentGatewaysView = availablePaymentGateways && (
-    <PaymentGatewaysList
-      paymentGateways={availablePaymentGateways}
-      processPayment={handleProcessPayment}
-      submitPayment={handleSubmitPayment}
-      submitPaymentSuccess={handleSubmitPaymentSuccess}
-      formId={checkoutGatewayFormId}
-      formRef={checkoutGatewayFormRef}
-      selectedPaymentGateway={selectedPaymentGateway}
-      selectedPaymentGatewayToken={selectedPaymentGatewayToken}
-      selectPaymentGateway={setSelectedPaymentGateway}
-      onError={handlePaymentGatewayError}
-      errors={paymentGatewayErrors}
-    />
+    <div>
+      <PaymentGatewaysList
+        paymentGateways={availablePaymentGateways}
+        processPayment={handleProcessPayment}
+        submitPayment={handleSubmitPayment}
+        submitPaymentSuccess={handleSubmitPaymentSuccess}
+        formId={checkoutGatewayFormId}
+        formRef={checkoutGatewayFormRef}
+        selectedPaymentGateway={selectedPaymentGateway}
+        selectedPaymentGatewayToken={selectedPaymentGatewayToken}
+        selectPaymentGateway={setSelectedPaymentGateway}
+        onError={handlePaymentGatewayError}
+        errors={paymentGatewayErrors}
+      />
+    </div>
   );
 
   const activeStep = getActiveStep();

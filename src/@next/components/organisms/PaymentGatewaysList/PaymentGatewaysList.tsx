@@ -83,16 +83,23 @@ const PaymentGatewaysList: React.FC<IProps> = ({
                     customLabel
                   >
                     <span data-test="checkoutPaymentGatewayDummyName">
-                      {name}
+                      Alte modalitati
                     </span>
                   </Radio>
                 </S.Tile>
                 {checked && (
+                  // <DummyPaymentGateway
+                  //   formRef={formRef}
+                  //   formId={formId}
+                  //   processPayment={token => processPayment(id, token)}
+                  //   // initialStatus={selectedPaymentGatewayToken}
+                  //   initialStatus="not-charged"
+                  // />
                   <DummyPaymentGateway
                     formRef={formRef}
                     formId={formId}
                     processPayment={token => processPayment(id, token)}
-                    initialStatus={selectedPaymentGatewayToken}
+                    // initialStatus={selectedPaymentGatewayToken}
                   />
                 )}
               </div>

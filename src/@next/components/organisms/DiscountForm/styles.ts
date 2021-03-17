@@ -12,6 +12,7 @@ export const InputWithButton = styled.div`
 
 export const InputWrapper = styled.div`
   flex: 1;
+  margin-right: 10px;
 `;
 
 export const ButtonWrapper = styled.div`

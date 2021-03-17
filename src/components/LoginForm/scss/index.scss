@@ -8,6 +8,8 @@
   &__button {
     margin-top: $spacer * 2;
     padding: 0 $spacer * 1.5;
-    text-align: center;
+    text-align: left;
+    margin-left: 0;
+    padding-left: 0;
   }
 }

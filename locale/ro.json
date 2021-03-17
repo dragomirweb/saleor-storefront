@@ -48,7 +48,7 @@
     "string": "Adauga in cos"
   },
   "@next_dot_components_dot_molecules_dot_AddressTile_dot_AddressTile_dot_1224809208": {
-    "string": "Adresa implicita"
+    "string": "Adresa livrare implicita"
   },
   "@next_dot_components_dot_molecules_dot_AddressTile_dot_AddressTile_dot_1578192486": {
     "string": "Adresa de facturare implicita"
@@ -168,7 +168,7 @@
     "string": "La fel ca adresa de livrare"
   },
   "@next_dot_components_dot_organisms_dot_CheckoutPayment_dot_CheckoutPayment_dot_3382401165": {
-    "string": "Voucher sau un cod de reducere?"
+    "string": "Voucher?"
   },
   "@next_dot_components_dot_organisms_dot_CheckoutReview_dot_CheckoutReview_dot_348821000": {
     "string": "Metoda de plata"
@@ -201,7 +201,7 @@
     "string": "V-am trimis prin email o confirmare a comenzii și va vom anunta cand comanda a fost expediata."
   },
   "@next_dot_components_dot_organisms_dot_ThankYou_dot_ThankYou_dot_3752098833": {
-    "string": "COMANDA"
+    "string": "Vezi comanda"
   },
   "@next_dot_components_dot_templates_dot_CartEmpty_dot_CartEmpty_dot_2488840083": {
     "string": "Nu este nimic in cos"
@@ -370,7 +370,7 @@
     "string": "Continua"
   },
   "intl_dot_checkoutMessages_dot_billingAddress": {
-    "string": "ADRESA"
+    "string": "Adresa facturare"
   },
   "intl_dot_checkoutMessages_dot_continueShopping": {
     "string": "Comanda noua"
@@ -388,7 +388,7 @@
     "string": "Comanda"
   },
   "intl_dot_checkoutMessages_dot_shippingAddress": {
-    "string": "Adresa"
+    "string": "Adresa livrare"
   },
   "intl_dot_checkoutMessages_dot_shippingMethod": {
     "string": "Livrare"
@@ -415,7 +415,7 @@
     "string": "Adauga"
   },
   "intl_dot_commonMessages_dot_addressBook": {
-    "string": "Adrese"
+    "string": "Adresele mele"
   },
   "intl_dot_commonMessages_dot_cancel": {
     "string": "Anulare"
@@ -559,7 +559,7 @@
     "string": "Rambursata"
   },
   "intl_dot_paymentStatusMessages_dot_notCharged": {
-    "string": "Not charged"
+    "string": "Plata la livrator"
   },
   "intl_dot_paymentStatusMessages_dot_partiallyCharged": {
     "string": "Partially charged"

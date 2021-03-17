@@ -34,6 +34,9 @@
 
       li {
         width: 80%;
+        &:hover {
+          color: $primary-color-dark;
+        }
       }
     }
   }

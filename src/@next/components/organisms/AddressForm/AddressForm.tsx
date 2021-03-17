@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-expressions */
 import { Formik } from "formik";
 import { pick } from "lodash";
 import React from "react";
